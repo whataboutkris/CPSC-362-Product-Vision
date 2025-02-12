@@ -47,6 +47,8 @@ Security and privacy options for high-profile influevers.
 
 <img title="Diagram" alt="ss" src="HYPEHOUSE.jpg">
 
+<img title="Diagram" alt="ss" src="hypehouse.jpeg">
+
 
 ![hypehouseimage](https://www.google.com/imgres?q=hypehouse%20logo&imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2F8xX8K93hqIIL6av3mgiDCVdWQ324k-XiT2XYJvVtU2o30nZKgitE3K7EZ3h4o97rm5ZFC0Hk%3Ds900-c-k-c0x00ffffff-no-rj&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fc%2FTheHypeHouse&docid=3O8dId5US5pVAM&tbnid=sX3vVKzTN0LEuM&vet=12ahUKEwjo0oHSw7CLAxXBCDQIHToLG4sQM3oECHEQAA..i&w=900&h=900&hcb=2&ved=2ahUKEwjo0oHSw7CLAxXBCDQIHToLG4sQM3oECHEQAA)
 
