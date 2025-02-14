@@ -36,12 +36,13 @@ Security and privacy options for high-profile influevers.
 - Performance : fast internet
 - Availability: a cloud to store video 
 - Scalability: to grow your page faster
-- Usability: easy to book a house and seemly entry with security and fast internet
+- Usability: easy to book a house and seamless entry with security and fast internet
 - Efficiency: Two-factor authentication
 
 
 ### For FUNCTIONAL: 
-- Dashboard : Homepage 
+- Dashboard : Homepage for user (client/renter) to access our systems 
+- Explore System : Listings of rentable houses. Able to view specifics and rent places, or communicate with renter. 
 - Profile System: User/renter profiles to gauge attributes
 - Communication System: Has inboxes and outboxes, contact pages, messaging system to communicate with clients 
 - Booking & Reservation System : User authentication and verification via social media accounts.
