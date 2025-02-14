@@ -48,7 +48,7 @@ Security and privacy options for high-profile influevers.
 - Booking & Reservation System : User authentication and verification via social media accounts.
 - Security & Privacy Controls: Identity verification
 
-<img title="Diagram" alt="ss" src="hypehouse.jpg">
+<img title="Diagram" alt="ss" src="HYPEHOUSE.jpg">
 
 <img title="Diagram" alt="ss" src="hypehouse.jpeg">
 
