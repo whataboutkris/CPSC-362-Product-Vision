@@ -1,7 +1,6 @@
 # HYPEHOUSE
 
-### First Rough Draft:
-- Vision: rent to influencers so they can use their “hype” to become more famous.HypeHouse is a platform for short-term rentals created specifically for influencers and content producers. By providing upscale "HypeHouses" with top-notch recording facilities and rentals, this platform guarantees an ideal stay for individuals seeking to expand their brand while taking advantage of first-class housing and go viral!
+### <img title="Diagram" alt="ss" src="hypehouse.jpeg">
 
 ### Planning:
 - For: content influencers / vloggers
@@ -50,7 +49,7 @@ Security and privacy options for high-profile influevers.
 
 <img title="Diagram" alt="ss" src="hypehouse-diagram.jpg">
 
-<img title="Diagram" alt="ss" src="hypehouse.jpeg">
+
 
 
 
