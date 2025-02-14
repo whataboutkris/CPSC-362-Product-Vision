@@ -20,7 +20,7 @@ System requirements: Mobile phone application, website,
 Security and privacy options for high-profile influevers.
 
 ### Use Case: 
-- ID: *create personal ID’s for users*
+- ID: unique, personal ID's. (ID: User_01, User_02, User03, etc.)
 - Name: Renting HypeHouse
 - Description: Influencer has a listing of houses for rent for social networking. Influencer then chooses there desired house to rent for x amount of days
 - Primary actor: influencer
