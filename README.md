@@ -41,6 +41,9 @@ Security and privacy options for high-profile influevers.
 
 
 ### For FUNCTIONAL: 
+- Dashboard : Homepage 
+- Profile System: User/renter profiles to gauge attributes
+- Communication System: Has inboxes and outboxes, contact pages, messaging system to communicate with clients 
 - Booking & Reservation System : User authentication and verification via social media accounts.
 - Security & Privacy Controls: Identity verification
 - Content-Friendly Design & Features: Easy interface
