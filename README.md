@@ -1,4 +1,6 @@
-# HYPEHOUSE <img title="Diagram" alt="ss" src="hypehouse.jpeg">
+# HYPEHOUSE 
+
+<img title="Diagram" alt="ss" src="hypehouse.jpeg">
 
 ### Planning:
 - For: content influencers / vloggers
