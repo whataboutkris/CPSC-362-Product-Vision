@@ -1,5 +1,4 @@
-# HYPEHOUSE
-
+# HYPEHOUSE <p style="text-align:center">Center this text</p>
 ### <img title="Diagram" alt="ss" src="hypehouse.jpeg">
 
 ### Planning:
