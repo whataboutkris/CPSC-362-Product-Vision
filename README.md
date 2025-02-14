@@ -26,9 +26,10 @@ Security and privacy options for high-profile influevers.
 - Primary actor: influencer
 - Preconditions: verified influencer who has to have an account and logged into said account
 - Postconditions: Influencer has access to property listings.
+  
 **Main Success Scenario:** 
 1. Influencer registers for an account. Verifies with an ID and social media handle.
-2. Once verified, influencer has access to every property and dates available for said listings.
+2. Once verified, influencer has access to every property and dates available for said listings, and can communicate with the renter and checkout.
 
 
 ### For NONFUNCTIONAL:
