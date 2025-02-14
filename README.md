@@ -36,7 +36,7 @@ Security and privacy options for high-profile influevers.
 - Performance : Updating listing page and fetching listings should be < 50ms
 - Availability: Downtime for our website should be no more than 5 seconds a year. 
 - Scalability: Utilziing cloud to make the listings and profiles grow with our user base. 
-- Usability: Easy to book a house and seamless entry with security and fast internet
+- Usability: Easy to book a house (No bloat in terms of UI and flow) .Seamless entry with security and fast internet
 - Security: Encrypted data of user profiles  
 
 
